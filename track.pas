@@ -6,6 +6,7 @@ uses Z80Ports,
 {$I TYPES.INC}
 {$I SAMPLE.INC}
 {$I YM.INC}
+{$I DISPLAY.INC}
 {$I MAIN.INC}
 
 begin
